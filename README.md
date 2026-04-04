@@ -7,7 +7,9 @@
 <div>
   <p>HTML, CSS E JAVASCRIPT</p>
   <p>aqui iriam imagens, utilizando "<img src="link-da-img">"</p>
+
   <p>aqui iriam imagens, utilizando "<img src="link-da-img">"</p>
+  
   <p>aqui iriam imagens, utilizando "<img src="link-da-img">"</p>
 </div>
 
